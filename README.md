@@ -1,2 +1,2 @@
-# patika-b-l-m-sonu-calismasi
+# patika-bolum-sonu-calismasi
 HTML Bölüm Sonu Çalışması
